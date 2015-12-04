@@ -1,0 +1,20 @@
+{
+  "name": "hapijs-seed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "good": "^6.4.0",
+    "good-console": "^5.2.0",
+    "hapi": "^11.1.2",
+    "inert": "^3.2.0",
+    "joi": "^7.0.1",
+    "lout": "^7.2.0",
+    "vision": "^4.0.1"
+  }
+}
