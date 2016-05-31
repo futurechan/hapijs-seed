@@ -1,7 +1,7 @@
 
 module.exports.find = function(request, reply){
 
-  reply();
+  reply([]);
 }
 
 module.exports.get = function(request, reply){
